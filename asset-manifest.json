@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-donut-lab/static/css/main.b680597a.chunk.css",
+    "main.js": "/react-donut-lab/static/js/main.3934bed4.chunk.js",
+    "main.js.map": "/react-donut-lab/static/js/main.3934bed4.chunk.js.map",
+    "runtime-main.js": "/react-donut-lab/static/js/runtime-main.6fea1523.js",
+    "runtime-main.js.map": "/react-donut-lab/static/js/runtime-main.6fea1523.js.map",
+    "static/js/2.b8082492.chunk.js": "/react-donut-lab/static/js/2.b8082492.chunk.js",
+    "static/js/2.b8082492.chunk.js.map": "/react-donut-lab/static/js/2.b8082492.chunk.js.map",
+    "index.html": "/react-donut-lab/index.html",
+    "precache-manifest.da5adeeb39465bab717d4d3fdcc5971c.js": "/react-donut-lab/precache-manifest.da5adeeb39465bab717d4d3fdcc5971c.js",
+    "service-worker.js": "/react-donut-lab/service-worker.js",
+    "static/css/main.b680597a.chunk.css.map": "/react-donut-lab/static/css/main.b680597a.chunk.css.map",
+    "static/js/2.b8082492.chunk.js.LICENSE.txt": "/react-donut-lab/static/js/2.b8082492.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fea1523.js",
+    "static/js/2.b8082492.chunk.js",
+    "static/css/main.b680597a.chunk.css",
+    "static/js/main.3934bed4.chunk.js"
+  ]
+}
