@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-donut-lab/precache-manifest.da5adeeb39465bab717d4d3fdcc5971c.js"
+  "/react-donut-lab/precache-manifest.9ed69d1023d644aee94ff0b35e0de630.js"
 );
 
 self.addEventListener('message', (event) => {
